@@ -1,4 +1,4 @@
-rootProject.name = 'expoboiler'
+rootProject.name = 'expo-boiler'
 
 dependencyResolutionManagement {
   versionCatalogs {
